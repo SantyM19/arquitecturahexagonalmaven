@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="application" />
         <module name="domain" />
+        <module name="infraestructure" />
       </profile>
     </annotationProcessing>
   </component>
